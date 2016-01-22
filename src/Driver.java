@@ -1,6 +1,6 @@
 /**
  * @author Joseph Burt
- * Begins the program.
+ * Begins the program. 
  */
 public class Driver 
 {
