@@ -1,6 +1,6 @@
 /**
  * @author Joseph Burt
- * Starts the program by creating a new reference to the MultiShapeTest class.
+ * Begins the program.
  */
 public class Driver 
 {
