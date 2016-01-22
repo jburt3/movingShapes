@@ -7,10 +7,10 @@ import javax.swing.*;
 
 /**
  * @author Joseph Burt
- * Creates all of the components necessary for displaying and interacting
- * with moving shapes into a GUI. The main JFrame is extended and always visible
- * while the secondary frame is created and visible at the user's command. Also 
- * implements ActionListener to receive input from JButtons.
+ * Creates all of the components necessary for displaying moving shapes in a 
+ * separate window. The main JFrame is extended and always visible
+ * while the secondary frame is created and visible at the user's command. Implements 
+ * ActionListener to receive input from JButtons.
  */
 @SuppressWarnings("serial")
 public class MultiShapeTest extends JFrame implements ActionListener
